@@ -47,14 +47,14 @@ body {
   }
   
   .pastry3 { /* Cupcake */
-    bottom: 0;
-    left: 0;
+    bottom: 30px;
+    right: 450px;
     background-color: #f0a8be; 
   }
   
   .pastry4 { /* Jelly Roll */
-    bottom: 0;
-    right: 0;
+    bottom: 30px;
+    right: 200px;
     background-color: #7fa8f0; 
   }
   
